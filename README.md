@@ -9,7 +9,7 @@ Accessibility to functions is limited by the status of the `admin`/`user` role.
 
 This application has `authentication` and `authorization` functions. Also, this application stores data about `users`, `user roles`, `cinema`, `films`, `screenings`, `tickets`, `shopping carts` and `orders` in a MySQL database.
 
-All `users` have access to these pages: /`register` and /`login`
+All `users` have access to these endpoint: /`register` and /`login`
 
 Features available to `User/Administrator`
 
